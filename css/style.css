@@ -1,0 +1,11 @@
+@font-face {
+    font-family: tradewinds;
+    src: url('https://fonts.googleapis.com/css?family=Trade+Winds&display=swap');
+}
+.logIn {
+	width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+
